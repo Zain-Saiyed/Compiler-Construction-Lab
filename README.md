@@ -59,7 +59,7 @@ Program to check if the parantheses present in equations are well-formed and dis
 
 [Source Code](https://github.com/Zain-Saiyed/Compiler-Construction-Lab/blob/main/Assignment%205/Wellformed_parenthesis.l)
 ##### Input to program:
-![Program input](https://github.com/Zain-Saiyed/Compiler-Construction-Lab/blob/main/Assignment%205/Input.png)
+![Program input](https://github.com/Zain-Saiyed/Compiler-Construction-Lab/blob/main/Assignment%205/Input.PNG)
 ##### Output:
 ![Program 5 output](https://github.com/Zain-Saiyed/Compiler-Construction-Lab/blob/main/Assignment%205/Output.png)
 
@@ -71,9 +71,13 @@ Program to display count of keywords, comments, lines of code, whitespaces, head
 ![Program input](https://github.com/Zain-Saiyed/Compiler-Construction-Lab/blob/main/Assignment%206/Input.JPG)
 ##### Output:
 ![Program 6 output](https://github.com/Zain-Saiyed/Compiler-Construction-Lab/blob/main/Assignment%206/Output.JPG)
+
 In case of missing file name argument:
+
 ![when file name argument is missing](https://github.com/Zain-Saiyed/Compiler-Construction-Lab/blob/main/Assignment%206/argument_not_found.JPG)
+
 In case where file does exist in current directory:
+
 ![when file does not exist](https://github.com/Zain-Saiyed/Compiler-Construction-Lab/blob/main/Assignment%206/file_not_found.JPG)
 
 ### 7. Decimal to Hexadecimal conversion:
@@ -81,10 +85,12 @@ Program to convert a Decimal number to Hexadecimal number in a given file.
 
 [Source Code](https://github.com/Zain-Saiyed/Compiler-Construction-Lab/blob/main/Assignment%207/decimal_to_hexadecimal.l)
 ##### Input to program:
-![Program input](https://github.com/Zain-Saiyed/Compiler-Construction-Lab/blob/main/Assignment%207/Input.png)
+![Program input](https://github.com/Zain-Saiyed/Compiler-Construction-Lab/blob/main/Assignment%207/Input.PNG)
 ##### Output:
 ![Program 7 output](https://github.com/Zain-Saiyed/Compiler-Construction-Lab/blob/main/Assignment%207/Output.png)
+
 In case where file does exist in current directory:
+
 ![when file does not exist](https://github.com/Zain-Saiyed/Compiler-Construction-Lab/blob/main/Assignment%207/file_not_found.png)
 
 ### 8. Identification of words starting with ‘A’:
@@ -94,7 +100,6 @@ Program to count number words starting with Capital A.
 
 ##### Output:
 ![Program 8 output](https://github.com/Zain-Saiyed/Compiler-Construction-Lab/blob/main/Assignment%208/Output.JPG)
-
 
 ### 9. Case conversion:
 Program to convert upper case letters to lower case letters and vice versa.
