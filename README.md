@@ -51,17 +51,17 @@
 
 | | Name | Description |
 |------| ------ | ------ |
-|1| [Print Hello World:](#Print-Hello-World) |Accepts User's input and prints "Hello World" if input string matches "Hi".|
-|2| [Display greeting to user:](#Display-greeting-to-user) |Program to greet user by accepting user's name as input.|
-|3| [Counting vowels and consonants:](#Counting-vowels-and-consonants) |Program to display counts of vowels and consonants present in given string.|
-|4| [Upper-case Word Identification:](#Upper-case-Word-Identification) |Program to display all the words with each letter in uppercase from a given sentence.|
-|5| [Well-formedness of parentheses:](#Well-formedness-of-parentheses) |Program to check if the parantheses present in equations are well-formed and display the unbalance parantheses count.|
-|6| [C program Tokenizer:](#C-program-Tokenizer) |Program to display count of keywords, comments, lines of code, whitespaces, headers included, etc used in a C program.|
-|7| [Decimal to Hexadecimal conversion:](#Decimal-to-Hexadecimal-conversion) |Program to convert a Decimal number to Hexadecimal number in a given file. |
-|8| [Identification of words starting with 'A':](#Identification-of-words-starting-with-'A') |Program to count number words starting with Capital A.|
-|9| [Case conversion:](#Case-conversion) |Program to convert upper case letters to lower case letters and vice versa.|
-|10| [URL domain identification:](#URL-domain-identification) |Program to display the count of URLs having com, org and edu domains.|
-|11| [Infix expression evaluation:](#Infix-expression-evaluation) |Progam to evaluate infix expressions.|
+|1| [Print Hello World:](#1-print-Hello-World) |Accepts User's input and prints "Hello World" if input string matches "Hi".|
+|2| [Display greeting to user:](#2-display-greeting-to-user) |Program to greet user by accepting user's name as input.|
+|3| [Counting vowels and consonants:](#3-counting-vowels-and-consonants) |Program to display counts of vowels and consonants present in given string.|
+|4| [Upper-case Word Identification:](#4-upper-case-Word-Identification) |Program to display all the words with each letter in uppercase from a given sentence.|
+|5| [Well-formedness of parentheses:](#5-well-formedness-of-parentheses) |Program to check if the parantheses present in equations are well-formed and display the unbalance parantheses count.|
+|6| [C program Tokenizer:](#6-c-program-Tokenizer) |Program to display count of keywords, comments, lines of code, whitespaces, headers included, etc used in a C program.|
+|7| [Decimal to Hexadecimal conversion:](#7-decimal-to-Hexadecimal-conversion) |Program to convert a Decimal number to Hexadecimal number in a given file. |
+|8| [Identification of words starting with 'A':](#8-identification-of-words-starting-with-a) |Program to count number words starting with Capital A.|
+|9| [Case conversion:](#9-case-conversion) |Program to convert upper case letters to lower case letters and vice versa.|
+|10| [URL domain identification:](#10-url-domain-identification) |Program to display the count of URLs having com, org and edu domains.|
+|11| [Infix expression evaluation:](#11-infix-expression-evaluation) |Progam to evaluate infix expressions.|
 
 Each of the Assignment in detail:
 
