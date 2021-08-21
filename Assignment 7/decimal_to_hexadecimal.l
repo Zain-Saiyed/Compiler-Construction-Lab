@@ -1,4 +1,4 @@
-/* Program to display count of keywords, comments, lines of code, whitespaces, headers included, etc used in a C program */
+/* Program to convert a Decimal number to Hexadecimal number in a given file. */
 %{
 /* DEFINITION BLOCK */
 #include <stdio.h>
